@@ -5,30 +5,30 @@
 To design and implement a digital clock circuit using an oscillator as the time-base generator and basic logic gates/counters for generating seconds, minutes, and hours, and to display the time using digital displays
 
 # COMPONENT REQUIRED
+<img width="528" height="502" alt="image" src="https://github.com/user-attachments/assets/cf674b4c-d08d-4028-b68a-eaf9d4e6811e" />
 
-![COMPONENT](https://github.com/user-attachments/assets/56833273-c854-4ad4-a3ab-18f6deec50d5)
 
 # THEORY 
+<img width="547" height="141" alt="image" src="https://github.com/user-attachments/assets/4496beb4-c9e8-44a0-87a5-7ba738d89786" />
+<img width="560" height="887" alt="image" src="https://github.com/user-attachments/assets/7a13e7ee-5cef-4175-b3fe-9367588c0b07" /><img width="540" height="336" alt="image" src="https://github.com/user-attachments/assets/6c9d826f-e7bb-4376-ad51-98182f8a605e" />
 
-![COMPONENT](https://github.com/user-attachments/assets/89705e02-8f46-4761-9a24-627521f72bc2)
-![THEORY 2](https://github.com/user-attachments/assets/e385a3b5-42a1-425c-94dd-2b14e974fab5)
 
 
 # PROCEDURE 
-![PRIOCEDURE](https://github.com/user-attachments/assets/8bc44153-6160-42c7-80ff-0e38383f34e0)
+<img width="559" height="516" alt="image" src="https://github.com/user-attachments/assets/3bb9e8b0-7c29-4190-9177-f8d6c05c21c5" />
 
 # BLOCK DIAGRAM
+<img width="522" height="573" alt="image" src="https://github.com/user-attachments/assets/de00db3c-334f-4be2-aaf0-1878c1172653" />
 
-![WhatsApp Image 2025-11-21 at 20 38 04_55a52288](https://github.com/user-attachments/assets/e683e72f-c552-455b-908d-96ce6a130c6a)
 
 
 # OBSERVATION 
 
-![WhatsApp Image 2025-11-21 at 20 38 05_a3c6ee75](https://github.com/user-attachments/assets/9c8dbb7e-a829-4a11-ace4-29e5c2561004)
+<img width="545" height="303" alt="image" src="https://github.com/user-attachments/assets/08f1cbdc-f943-45e5-9559-9fa74b0859d1" />
 
 
 # RESULT
 
-![RESULT](https://github.com/user-attachments/assets/e0766eed-8ec8-49d0-bccb-955f6f2249ed)
+<img width="587" height="338" alt="image" src="https://github.com/user-attachments/assets/abf3d8d3-e85b-4072-8a61-cd1c7ccae2d0" />
 
 
